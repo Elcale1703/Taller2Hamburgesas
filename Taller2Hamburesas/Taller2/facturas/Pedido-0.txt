@@ -1,0 +1,12 @@
+Id: 0
+Cliente: Moises
+Direccion Cliente: kelly
+
+Productos:
+
+*corral 	$14000
+
+
+Precio Neto: $14000
+IVA: $2660
+Precio Total: $16660
